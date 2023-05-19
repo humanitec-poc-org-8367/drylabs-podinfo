@@ -1,0 +1,7 @@
+site_name: 'drylabs-podinfo Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
