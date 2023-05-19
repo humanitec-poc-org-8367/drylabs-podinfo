@@ -2,6 +2,7 @@ site_name: 'drylabs-podinfo Docs'
 
 nav:
   - Home: index.md
+  - Bleh: bzzz
 
 plugins:
   - techdocs-core
